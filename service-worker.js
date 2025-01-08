@@ -1,0 +1,1 @@
+importScripts('https://pxl-pavel-sotnikov.qa.altcraft.com/service-worker.js?id=MXw0Mg..');
